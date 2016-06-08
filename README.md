@@ -20,9 +20,9 @@ X lower: 0,100,200,500,1000,1200,1500,1800,1900,2000
 Write in one coordinate in the field "Y upper" and "Y lower".
 ![alt tag](https://github.com/naayadaa/finite-element-model/blob/master/fe2.png)
 Click "Show model" or "Показать модель". The new window opens for the finite elements model visualisation.
-Ctrl+X - show/hide system of axes;
-Ctrl+V - set camera in the initional position;
-Mouse scrol - zoom;
-Drag the primary mouse button - rotate the view;
-Drag the secondary mouse button - move the view;
+*Ctrl+X - show/hide system of axes;
+*Ctrl+V - set camera in the initional position;
+*Mouse scrol - zoom;
+*Drag the primary mouse button - rotate the view;
+*Drag the secondary mouse button - move the view;
 ![alt tag](https://github.com/naayadaa/finite-element-model/blob/master/fe3.png)
